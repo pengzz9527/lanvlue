@@ -562,7 +562,7 @@ st.markdown("""
     <div class="caption-text">{}</div>
 </div>
 """.format(
-    t("Strategic Profit Sandbox", "柳工战略利润沙盘系统"),
+    t("Strategic Profit Sandbox", "LG战略利润沙盘系统"),
     t("Executive Value Chain War-Room", "价值链战略驾驶舱")
 ), unsafe_allow_html=True)
 
@@ -937,4 +937,5 @@ st.markdown(f"""
 <div class="success-box">
     ✅ {t('Executive Sandbox Active | Real-time Strategic Modeling', '战略沙盘运行中 | 实时战略建模')}
 </div>
+
 """, unsafe_allow_html=True)
